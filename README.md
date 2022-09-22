@@ -27,9 +27,9 @@
 
 ### :woman_technologist: About Me :
 I am a student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Illinois.
-- :telescope: I’m working as a senior with a planned graduation date of December, 2023.
+- :telescope: I’m a senior with a planned graduation date of December, 2023.
 
-- :seedling: Exploring new languages.
+- :seedling: Exploring new languages and technologies.
 
 - :zap: In my free time, I enjoy working on tech problems, exercising, and playing music.
 
