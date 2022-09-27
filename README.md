@@ -31,7 +31,7 @@ I am a student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring new languages and technologies.
 
-- :zap: In my free time, I enjoy working on tech problems, exercising, and playing music.
+- :zap: In my free time, I enjoy working on tech problems, exercising, being outdoors, and playing music.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Audrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audreyvolle/)
 
