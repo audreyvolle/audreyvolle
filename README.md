@@ -26,7 +26,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Illinois.
+I am a student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Decatur, Illinois.
 - :telescope: I’m a senior with a planned graduation date of December, 2023.
 
 - :seedling: Exploring new languages and technologies.
