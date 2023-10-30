@@ -25,7 +25,7 @@
 </div>-->
 ---
 
-### :woman_technologist: About Me :
+<!--### :woman_technologist: About Me :
 I am a student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Decatur, Illinois.
 - :telescope: I’m a senior with a planned graduation date of December, 2023.
 
@@ -36,6 +36,7 @@ I am a student developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Audrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audreyvolle/)
 
 ---
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
